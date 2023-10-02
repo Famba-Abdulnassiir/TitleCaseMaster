@@ -1,0 +1,27 @@
+{
+  "name": "title-case-master",
+  "version": "1.0.1",
+  "description": "Title-Case-Master is a lightweight JavaScript utility library designed to simplify the task of converting input names into a consistent sentence case format. It takes into account various scenarios and ensures proper capitalization for names, making it perfect for applications where accurate naming conventions are crucial.",
+  "main": "util.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Famba-Abdulnassiir/TitleCaseMaster.git"
+  },
+  "keywords": [
+    "name-conversion",
+    "text-util",
+    "name-parser",
+    "javascript-library",
+    "sentence-case-converter",
+    "sentencece-case"
+  ],
+  "author": "Abdulnassiir Famba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Famba-Abdulnassiir/TitleCaseMaster/issues"
+  },
+  "homepage": "https://github.com/Famba-Abdulnassiir/TitleCaseMaster#readme"
+}
